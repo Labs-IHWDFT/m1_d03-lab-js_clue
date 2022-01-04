@@ -2,6 +2,8 @@
 
 # LAB | JS Clue - Mixing objects and arrays
 
+[![Automated Testing](https://github.com/Labs-IHWDFT/m1_d03-lab-js_clue/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m1_d03-lab-js_clue/actions/workflows/test.yml)
+
 Do you remember the classic detective board game Clue? It was a very popular game in the 90's.
 
 The plot starts with the death of Mr. Boddy, the very wealthy owner of Tudor Manor. He was killed under _highly suspicious circumstances_, and it's the player's mission to uncover which **suspect** murdered him, what **weapon** was used, and in which **room** of the mansion the crime took place.
